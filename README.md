@@ -1,23 +1,3 @@
-#Fault-Tolerant Control of UAVs
+Fault-Tolerant Control of UAVs
 
-This project focuses on the simulation and analysis of fault-tolerant control mechanisms in Unmanned Aerial Vehicles (UAVs). The system models UAV flight dynamics, introduces actuator and sensor faults, and evaluates the performance of PID-based fault-tolerant control strategies under different operating conditions.
-
-The objective of this project is to improve UAV stability, reliability, and control performance during fault scenarios through simulation-based analysis.
-
-Features
-UAV flight dynamics modeling
-Sensor and actuator fault simulation
-PID-based control system
-Fault detection and tolerance analysis
-Performance comparison under normal and faulty conditions
-Python-based simulation environment
-Technologies Used
-Python
-NumPy
-Matplotlib
-Control System Libraries
-Applications
-Autonomous aerial systems
-Reliable UAV navigation
-Aerospace control systems
-Fault diagnosis and recovery systems
+This project presents the simulation and analysis of fault-tolerant control mechanisms in Unmanned Aerial Vehicles (UAVs) using Python-based modeling and control techniques. The system models UAV flight dynamics and evaluates the behavior of the UAV under both normal and faulty operating conditions. PID-based controllers are implemented to regulate altitude and angular stability while maintaining controlled flight performance. The project introduces actuator fault conditions by simulating partial motor failure and analyzes the effect of these faults on UAV stability, tracking accuracy, and overall system performance. A fault-tolerant control (FTC) strategy is implemented to compensate for motor degradation by redistributing thrust and reducing instability during fault scenarios. The simulation compares UAV performance with and without FTC using graphical analysis of altitude and angle responses over time. The project demonstrates how robust control strategies can improve the reliability, safety, and operational stability of autonomous aerial systems under failure conditions. The simulation environment is developed using Python, NumPy, and Matplotlib, providing a simplified yet effective framework for studying UAV control systems, fault detection, and fault recovery mechanisms in aerospace applications.
