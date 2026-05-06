@@ -4,3 +4,4 @@ This project presents the simulation and analysis of fault-tolerant control mech
 
 
 ![UAV Results](https://github.com/Mort648/Fault-Tolerance-Control-of-UAV-/blob/b3d29039796a4b1b54330c466b8ea5184c3f98bf/Result.png)
+![UAV Results](https://github.com/Mort648/Fault-Tolerance-Control-of-UAV-/blob/15d15cd5792094b84b1826110d8aab57f9bd216b/result_1.png)
